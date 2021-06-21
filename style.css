@@ -55,9 +55,7 @@ img{
   height:100%
 }
 
-
-
- input {
+ #menuToggle {
   display: none;
 }
 
