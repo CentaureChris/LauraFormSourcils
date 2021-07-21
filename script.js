@@ -97,7 +97,9 @@ function moveDrawligne(oEvent){
     document.getElementById("bt-clear").addEventListener("click", nettoyer); 
   });
   
-  
+  function imprimer_page(){
+    window.print();
+  }
 
 
   
